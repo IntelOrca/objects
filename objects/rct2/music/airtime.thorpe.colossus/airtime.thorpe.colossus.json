@@ -1,0 +1,20 @@
+{
+    "id": "airtime.thorpe.colossus",
+    "authors": ["Airtime"],
+    "version": "1.0",
+    "originalId": "0000008E|#MUSICCO|00000000",
+    "sourceGame": ["rct2"],
+    "objectType": "music",
+    "properties": {
+        "tracks": [
+            {
+                "source": "colossus.wav"
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Thorpe Park: Colossus"
+        }
+    }
+}
